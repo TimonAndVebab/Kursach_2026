@@ -1,0 +1,5 @@
+registration_number;title;author_id;criticality_score;dependent_process_count
+помилка;числа
+BAD;Назва;один;80;1
+MISS;Назва;999999;60;2
+DEMO4;План перевірки;1;40;2
